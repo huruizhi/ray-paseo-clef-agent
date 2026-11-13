@@ -1,0 +1,3 @@
+interface:
+  display_name: "Ray Paseo Clef Agent"
+  short_description: "Initialize tasks, route with Clef, and verify Paseo agents"
